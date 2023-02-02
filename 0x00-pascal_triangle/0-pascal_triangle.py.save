@@ -1,0 +1,6 @@
+def pascal_triangle(n):
+    a=[1,1]
+    b=len(a)+1
+    #insert 1++
+
+pascal_triangle(4)
